@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Pretty HTML5 Video Component",
   "author": "Belmin Bedak (@bedakb)",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
