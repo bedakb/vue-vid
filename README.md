@@ -2,6 +2,8 @@
 
 Simple VueJS 2 Component that make your HTML5 Videos prettier.
 
+DEMO: https://vuevid.herokuapp.com/
+
 ## Dependencies
 
 The only dependency VueVid needs is [FontAwesome](http://fontawesome.io/) - make sure you have installed It, otherwise the icons won't be displayed.
