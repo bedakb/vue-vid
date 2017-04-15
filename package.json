@@ -4,6 +4,7 @@
   "description": "Pretty HTML5 Video Component",
   "author": "Belmin Bedak (@bedakb)",
   "private": false,
+  "main": "src/VueVid.vue",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
