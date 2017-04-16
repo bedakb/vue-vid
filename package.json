@@ -12,6 +12,15 @@
     "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run",
     "test": "npm run unit"
   },
+  "keywords": [
+      "vue",
+      "video",
+      "component"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/bedakb/vue-vid"
+  },
   "dependencies": {
     "vue": "^2.2.2"
   },
